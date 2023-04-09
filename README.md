@@ -60,3 +60,10 @@ Here are some examples of problems that can be solved using the backtracking alg
 **4 - Graph Coloring Problem**: Given an undirected graph, assign a color to each vertex in such a way that no two adjacent vertices have the same color.
 
 **5 - Subset Sum Problem**: Given a set of integers, find all possible subsets whose sum is equal to a given target value.
+
+
+<br />
+
+<br />
+
+Clone the code, run  it and enjoy :)
