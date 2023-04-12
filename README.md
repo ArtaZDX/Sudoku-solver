@@ -66,4 +66,11 @@ Here are some examples of problems that can be solved using the backtracking alg
 
 <br />
 
-Clone the code, run  it and enjoy :)
+## Clone the code, run  it and enjoy :)
+
+<br />
+<br />
+
+## License & copyright
+
+© Arta Moghaddasi
