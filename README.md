@@ -74,4 +74,5 @@ Here are some examples of problems that can be solved using the backtracking alg
 ## License & copyright
 
 MIT License
+<br />
 © Arta Moghaddasi
